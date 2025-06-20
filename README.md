@@ -1,1 +1,3 @@
-# finger_taping_game
+# finger_tap_game
+
+A new Flutter project.
